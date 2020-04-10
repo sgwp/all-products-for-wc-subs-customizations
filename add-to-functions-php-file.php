@@ -1,3 +1,5 @@
+<?php // Do not include this if already open! Code goes in theme functions.php.
+
 /*
  * Product subscriptions
  */
