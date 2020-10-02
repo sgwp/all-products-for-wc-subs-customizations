@@ -1,5 +1,3 @@
-<?php // Do not include this if already open! Add code to the bottom of your theme's functions.php file.
-
 /*
  * Product subscriptions
  */
