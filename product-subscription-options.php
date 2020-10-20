@@ -125,7 +125,7 @@
 }
 
 .single-product .purchase-options li.selected{
-	background-color: var(--brand-white);
+	background-color: #edebe6;
 }
 
 .single-product .purchase-options li::before{
@@ -133,9 +133,9 @@
 }
 
 .single-product .purchase-options input{
-	margin: 0 6px 2px 0;
-	height: 16px;
-	width: 16px;
+	margin: 0 6px 0px 0;
+	height: 1em;
+	width: 1em;
 
 	-webkit-tap-highlight-color: transparent;
 	cursor: pointer;
