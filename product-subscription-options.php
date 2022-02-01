@@ -107,7 +107,7 @@
 }
 
 .single-product .purchase-options{
-	max-width: 460px;
+/* 	max-width: 460px; */
 	margin: 0 0 1.5rem;
 	padding-left: 0;
 }
